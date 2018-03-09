@@ -1,1 +1,1 @@
-{"apps":[{"name":"تابعني على الفيس بوك","imageurl":"","link":"رابط","desc":null},{"name":"سيلفي كاميرا","imageurl":"صورة","link":"رابط","desc":null}],"success":1}
+{"apps":[{"name":"تابعني على الفيس بوك","imageurl":"","link":"https://play.google.com/store/apps/details?id=com.mhmdkzzarasym.statussave","desc":null},{"name":"سيلفي كاميرا","imageurl":"صورة","link":"رابط","desc":null}],"success":1}
