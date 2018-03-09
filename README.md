@@ -1,1 +1,1 @@
-{"apps":[{"name":"تابعني على الفيس بوك","imageurl":"","link":"https://play.google.com/store/apps/details?id=com.mhmdkzzarasym.statussave","desc":null},{"name":"سيلفي كاميرا","imageurl":"959595صور","link":"55555555","desc":null}],"success":1}
+{"apps":[{"name":"تابعني على الفيس بوك","imageurl":"","link":"https://play.google.com/store/apps/details?id=com.mhmdkzzarasym.statussave","desc":null},{"name":"سيلفي كاميرا","imageurl":"https://play.google.com/store/apps/details?id=com.Selfie.Beauty.ayham.jamal","link":"55555555","desc":null}],"success":1}
